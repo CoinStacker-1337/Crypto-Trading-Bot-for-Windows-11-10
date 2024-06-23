@@ -2,9 +2,11 @@
 
 __Overview__
 
+
 This repository hosts a powerful and configurable crypto trading bot tailored for Windows 11 and 10. It integrates seamlessly with major exchanges including Binance, Coinbase, and more, offering automated trading strategies to maximize profit potential in the volatile crypto markets.
 
 __Key Features__
+
 
 -Cross-Platform Compatibility: Designed specifically for Windows 11 and 10, ensuring optimal performance and reliability.
 Multi-Exchange Support: Connects to popular exchanges such as Binance, Coinbase, and others, providing access to diverse trading pairs.
@@ -18,6 +20,7 @@ Multi-Exchange Support: Connects to popular exchanges such as Binance, Coinbase,
 -User-Friendly Interface: Intuitive dashboard and controls make it easy to monitor trading activities, set alerts, and track portfolio performance.
 
 __Installation/Use__
+
 
 Clone Repository: git clone https://github.com/yourusername/crypto-trading-bot
 
